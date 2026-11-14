@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Login - Portal Bimbingan Private SMA Global Darussalam</title>
+    <title>Login - Portal Bimbingan Private SMA Global Darussalam Academy</title>
     
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600,700" rel="stylesheet" />
@@ -19,7 +19,7 @@
             </div>
         </div>
         <h2 class="mt-4 text-center text-xl font-bold tracking-tight text-slate-900">
-            SMA Global Darussalam
+            SMA Global Darussalam Academy
         </h2>
         <p class="mt-1 text-center text-xs font-semibold uppercase tracking-wider text-amber-600">
             Sistem Booking Private Siswa & Tentor

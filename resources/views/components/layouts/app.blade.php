@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ $title ?? 'GDA Private - SMA Global Darussalam' }}</title>
+    <title>{{ $title ?? 'GDA Private - SMA Global Darussalam Academy' }}</title>
     
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.bunny.net">
@@ -21,7 +21,7 @@
                     GDA
                 </div>
                 <div>
-                    <h1 class="text-sm font-bold tracking-tight text-white leading-tight">SMA GLOBAL DARUSSALAM</h1>
+                    <h1 class="text-sm font-bold tracking-tight text-white leading-tight">SMA GLOBAL DARUSSALAM ACADEMY</h1>
                     <p class="text-xs text-amber-400 font-medium tracking-wide">Portal Bimbingan Private</p>
                 </div>
             </div>
@@ -63,7 +63,7 @@
     <!-- Footer Formal -->
     <footer class="border-t border-slate-200 bg-white py-6 text-center text-xs text-slate-500 mt-auto">
         <div class="max-w-5xl mx-auto px-4">
-            <p>&copy; {{ date('Y') }} SMA Global Darussalam Yogyakarta &bull; Sistem Booking Private Siswa-Tentor</p>
+            <p>&copy; {{ date('Y') }} SMA Global Darussalam Academy Yogyakarta &bull; Sistem Booking Private Siswa-Tentor</p>
             <p class="mt-1 text-[11px] text-slate-400">Direkayasa untuk koordinasi belajar yang presisi, bebas bentrok jadwal, dan tepat waktu.</p>
         </div>
     </footer>
